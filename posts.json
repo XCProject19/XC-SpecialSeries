@@ -3,7 +3,7 @@
 [
   {
 "title" : "The Unwanted Roommate",
-"status" : "Ongoing",
+"status" : "စ-ဆုံး",
 "cover" : "https://1.bp.blogspot.com/-HS4Wmw7QkXk/XpilAnpFzgI/AAAAAAAAGNk/zlWtUBIP1u02eYXE419vnlNvTJHNKgKzwCLcBGAsYHQ/s320/001Cover.jpg",
 "image" : "https://1.bp.blogspot.com/-83astsah03s/Xpil-X__0FI/AAAAAAAAGNs/mmMjEK7e_dkWjReYy84BtfOpNdZq2Cn2gCLcBGAsYHQ/s1600/IMG_20200417_010534-picsay.jpg",
 "link" : "https://raw.githubusercontent.com/XCProject19/series-theUnwantedRoommate/master/",
@@ -14,6 +14,16 @@
        ဘာသာပြန် : Xcomic XC2"
 }
 ,
+  {
+"title" : "မေမေလေး",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-NB5rop8EyzQ/XMsLm-n45rI/AAAAAAAAWv0/mEDf6yl-ej8LA6LKu6R6QjUWCsnt9x5aACLcBGAs/s400/0.jpg",
+"image" : "https://3.bp.blogspot.com/-qdSF27l9X9o/XJx8v4mebbI/AAAAAAAAVqU/t55gXFVVaJAVFgaWKwzWkzeiAZmstSpIACLcBGAs/s1000/0.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-MayMayLay/master/",
+"tag" : "",
+"vol" : "မေမေလေးက ကျနော့်ထက် ၁၀နှစ် လောက်ကြီးပေမယ့် အရွယ်တင်လွန်းတယ် ပြီးတော့ သူ..သူ...ကျနော့်ကို သွေးဆောင် နေသလိုပဲ"
+}
+  ,
 {
 "title" : "တာဝန်ကျေမေမေ",
 "status" : "စ-ဆုံး",
@@ -45,16 +55,6 @@
 "link" : "https://raw.githubusercontent.com/XCProject19/series-SayLoYar/master/",
 "tag" : "",
 "vol" : "နေ့စဉ်"
-}
-,
-{
-"title" : "မေမေလေး",
-"status" : "နေ့စဉ်",
-"cover" : "https://1.bp.blogspot.com/-NB5rop8EyzQ/XMsLm-n45rI/AAAAAAAAWv0/mEDf6yl-ej8LA6LKu6R6QjUWCsnt9x5aACLcBGAs/s400/0.jpg",
-"image" : "https://3.bp.blogspot.com/-qdSF27l9X9o/XJx8v4mebbI/AAAAAAAAVqU/t55gXFVVaJAVFgaWKwzWkzeiAZmstSpIACLcBGAs/s1000/0.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-MayMayLay/master/",
-"tag" : "",
-"vol" : "မေမေလေးက ကျနော့်ထက် ၁၀နှစ် လောက်ကြီးပေမယ့် အရွယ်တင်လွန်းတယ် ပြီးတော့ သူ..သူ...ကျနော့်ကို သွေးဆောင် နေသလိုပဲ"
 }
 ]
 }
