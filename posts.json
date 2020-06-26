@@ -1,30 +1,37 @@
 {
 "series":
 [
- {
+{
 "title" : "အိမ်နီးချင်းမမ ",
 "status" : "Ongoing",
 "cover" : "https://1.bp.blogspot.com/-2by5T2RoKBo/XiM3_-MgbhI/AAAAAAAAEYQ/hQ2pt6506FENrKTSjJBHu5gM_zjYidSNwCLcBGAsYHQ/s400/FB_IMG_1579365351585.jpg",
 "image" : "https://1.bp.blogspot.com/-MQqzdu-mzoc/Xo_yzzlGz7I/AAAAAAAAE2g/bNbJVd9-yuYOwcFCUZdUy7S7JVLqFF5cACLcBGAsYHQ/s1600/sis_nbr.png",
 "link" : "https://raw.githubusercontent.com/XCProject19/SeriesSisNbr/master/",
 "tag" : "",
-"vol" : "ဘာသာပြန် : လမင်းကဗျာ\nတင်ဆက်သူ : XC2"
+"vol" : "ဘာသာပြန် : လမင်းကဗျာ & XComic\nတင်ဆက်သူ : XC2"
 }
 ,
-  {
-"title" : "The Unwanted Roommate",
-"status" : "စ-ဆုံး",
-"cover" : "https://1.bp.blogspot.com/-HS4Wmw7QkXk/XpilAnpFzgI/AAAAAAAAGNk/zlWtUBIP1u02eYXE419vnlNvTJHNKgKzwCLcBGAsYHQ/s320/001Cover.jpg",
-"image" : "https://1.bp.blogspot.com/-83astsah03s/Xpil-X__0FI/AAAAAAAAGNs/mmMjEK7e_dkWjReYy84BtfOpNdZq2Cn2gCLcBGAsYHQ/s1600/IMG_20200417_010534-picsay.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-theUnwantedRoommate/master/",
+{
+"title" : "နှောင်ကြိုး",
+"status" : "Ongoing",
+"cover" : "https://1.bp.blogspot.com/-uUrM1g9K7xQ/XWQJgUJGkyI/AAAAAAAAYjU/zYorsFI1anAGvY3mFCVrAsxw0KGgzPaYQCLcBGAs/s300/0.jpg",
+"image" : "https://1.bp.blogspot.com/-pNU6wC9f0OI/Xo9zq3waxuI/AAAAAAAAE2Q/6Kl1qGpkZnUJCzi658ItOOmjmxy4G6VmgCLcBGAsYHQ/s1600/naung_image.png",
+"link" : "https://raw.githubusercontent.com/XCProject19/Series-HnaungKyoe/master/",
 "tag" : "",
-"vol" : "ညီမနဲ့ အတူနေရတဲ့ ကောင်လေးတစ်ယောက်ရဲ့ ခံစားချက်တွေ...
-       ဒါပေမယ့် ညီမက အရင်းလည်း မဟုတ် သူငယ်ချင်းရဲ့ ညီမ...
-       ခပ်ဆိုးဆိုး ကောင်မလေးနဲ့ အတူနေရင်း တစ်နေ့ကျတော့ ......
-	   ဘာသာပြန် : Xcomic XC2"
+"vol" : "၁၀၉ ၁၁၀ ဖြစ်နေတဲ့ ဂျီဟွန်း တယောက် ကံကောင်းထောက်မပြီး အလုပ်ရလိုက်ပေမယ့် ကုမ္ပဏီ ဥက္ကဌ က သူအသည်းခွဲခဲ့ဖူးတဲ့ မမကြီး ဖြစ်နေသောအခါ..."
 }
 ,
-  {
+{
+"title" : "The Memory Of u",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-p8ga9j7mwks/XvMsixdYEpI/AAAAAAAADaA/iJfMVkcPYEUwpYODl8ap7zd2STCbz9m1wCLcBGAsYHQ/s1600/My-Memory-of-You-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-hsaeN9fSmvg/XvMuyt9WgDI/AAAAAAAADcU/oyVfv7otQFcrynWmSydiJyFd5Ui2HVCDACLcBGAsYHQ/s1600/IMG_20200624_171300.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-The-Memory-Of-u/master/",
+"tag" : "",
+"vol" : ""
+}
+,
+{
 "title" : "မေမေလေး",
 "status" : "နေ့စဉ်",
 "cover" : "https://1.bp.blogspot.com/-NB5rop8EyzQ/XMsLm-n45rI/AAAAAAAAWv0/mEDf6yl-ej8LA6LKu6R6QjUWCsnt9x5aACLcBGAs/s400/0.jpg",
@@ -32,16 +39,6 @@
 "link" : "https://raw.githubusercontent.com/XCProject19/series-MayMayLay/master/",
 "tag" : "",
 "vol" : "မေမေလေးက ကျနော့်ထက် ၁၀နှစ် လောက်ကြီးပေမယ့် အရွယ်တင်လွန်းတယ် ပြီးတော့ သူ..သူ...ကျနော့်ကို သွေးဆောင် နေသလိုပဲ"
-}
-  ,
-{
-"title" : "ခိုနားရာ",
-"status" : "နေ့စဉ်",
-"cover" : "https://1.bp.blogspot.com/-uluPmC9fQjk/XpR_Xi9gDOI/AAAAAAAAbFM/ZCSwunoOy_4IDA4ngsxvtIq9mmKwzrnqgCLcBGAsYHQ/s400/0.jpg",
-"image" : "https://1.bp.blogspot.com/-1AB21Yj-H60/Xo8xdDHVgDI/AAAAAAAAa8o/eHb5y7L-xsc3iF2rsGxnizYo1MH5AH55gCLcBGAsYHQ/s1000/0.jpg",
-"link" : "https://raw.githubusercontent.com/XCProject19/series-khonaryar/master/",
-"tag" : "",
-"vol" : "အိမ်နီးချင်း သနားစရာ ကောင်လေးတယောက်ကို ထမင်းခေါ်ကျွေးရာက ကလေးတယောက် အမေ အိမ်ရှင်မ အေမီရဲ့ဘဝ ဘယ်လို ပြောင်းလဲသွားမလဲဆိုတာ"
 }
 ,
 {
@@ -56,6 +53,18 @@
 ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
 "
 }
-
+,
+{
+"title" : "Perfect Roommates",
+"status" : "နေ့စဉ်",
+"cover" : "https://1.bp.blogspot.com/-d8w2bVPjnXU/XuNZE_H1OOI/AAAAAAAARUc/rNCgt9mXSicn_ccd5dhJ3ELjvsrPwDnKACLcBGAsYHQ/s320/The-Perfect-Roommates-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-VZ215Vy7tWo/XuNZXzSjNhI/AAAAAAAARUk/zTL_q2t7ijEo3zoOgP8-tGGj4s1-nhxnwCLcBGAsYHQ/s1600/IMG_20200612_165951.jpg",
+"link" : "https://raw.githubusercontent.com/XCProject19/series-perfect-roommates/master/",
+"tag" : "",
+"vol" : "“သူတို့က ကျနော့မိသားစုဝင်တွေမဟုတ်ဘူး....
+အဲ့မိန်းမတွေက သိုက်တူးသမားတွေပဲ....
+သူတို့ ကျနော့ကို ဒါမျိုးလာလုပ်တာတော့ လက်မခံနိုင်ဘူး...
+ကျနော် ........ ”"
+}
 ]
 }
